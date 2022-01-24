@@ -1,0 +1,15 @@
+
+#allLikedPProducts {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#allLikedPProducts .card {
+  padding: 10px;
+  border: 2px black solid;
+  margin: 2%;
+}
+

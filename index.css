@@ -1,0 +1,15 @@
+
+#carouselExampleIndicators {
+  height: 80vh;
+}
+
+#products {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: auto;
+}
+
+#products div {
+  margin: 2%;
+}
